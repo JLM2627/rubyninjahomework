@@ -36,4 +36,11 @@ challenge 2
 5. gTonumber = 2
 6. gToNumber + g
 
+Challenge 6
+1. myFirstarray = []
+myFirstArray = ["1", "2", "3", "4", "5", 6, 7, 8, 9]
+myFirstArray.push
+myFirstArray.pop
+myFirstArray[1] = "Joe"
+myFirstArray[2] = 3
 

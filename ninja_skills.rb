@@ -29,5 +29,11 @@ challenge 2
 3. Challenge 3
 
 4. Challenge 4
-1. 
+1. christine = "Hi, Im Christine!"
+2. likesTo = "long walks on the beach, kinda"
+3. christine + likesTo
+4. g= "2"
+5. gTonumber = 2
+6. gToNumber + g
+
 

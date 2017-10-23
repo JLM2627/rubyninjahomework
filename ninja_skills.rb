@@ -44,3 +44,15 @@ myFirstArray.pop
 myFirstArray[1] = "Joe"
 myFirstArray[2] = 3
 
+challenge7
+1. my_favorite_animals = {
+    names: ["edgar", "kumar"],
+    species; ["elephant", "anteater"]
+}
+my_favorite_animals["name"] = "Bob"
+
+favorite_movie = {}
+favorite_movie = {
+    fav: "Steel Magnolia"
+}
+favorite_movies.key
